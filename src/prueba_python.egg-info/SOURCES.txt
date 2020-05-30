@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/prueba_python/__init__.py
+src/prueba_python.egg-info/PKG-INFO
+src/prueba_python.egg-info/SOURCES.txt
+src/prueba_python.egg-info/dependency_links.txt
+src/prueba_python.egg-info/top_level.txt

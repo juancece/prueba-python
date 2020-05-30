@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: prueba-python
+Version: 0.1.0
+Summary: The pruebapython Python project
+Home-page: https://github.com/juancece/prueba-python
+Author: juancece
+Author-email: juancece@outlook.com
+License: UNKNOWN
+Description: # prueba-python
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
